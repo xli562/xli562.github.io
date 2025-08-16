@@ -12,7 +12,7 @@ Films, badminton, skiing, swimming, table tennis, hiking, coding, cooking, socia
 
 Language learning. Similarities between languages fascinate me. I am a hyperpolyglot with German, French, Latin and Japanese in my Duolingo, and Chinese Mandarin, English and Cantonese in my brain.
 
-{% include figure image_path="/images/duolingo.jpg" alt="Duolingo" %}
+![Duolingo](/images/duolingo.jpg)
 
 Reading. I enjoy Kazuo Ishiguro and Hemingway. I also quite like _Dune_.
 
