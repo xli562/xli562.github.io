@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <h2 style="font-family:'Times New Roman';font-weight:bold;">Curriculum Vitae Henrici</h2>
+title: <h1 style="font-family:'Times New Roman';font-weight:bold;">Curriculum Vitae Henrici</h1>
 permalink: /cv/
 author_profile: true
 redirect_from:
