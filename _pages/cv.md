@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae Henrici"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
@@ -12,6 +12,11 @@ redirect_from:
 ## Education
 
 * MEng in Information and Computer Engineering, University of Cambridge, 2026 (expected)
+  * Electrical engineering covering **circuits**, machines, electromagnetism, **semiconductor materials**.
+  * Information Engineering covering **information theory**, control, Fourier, stochastics, **communications**.
+  * Mathematical methods covering ODEs and PDEs, linear algebra, probability and statistics.
+  * Bioengineering covering medical imaging, ocular biomechanics and neuro coding.
+  * **Photonics**, classical mechanics, thermodynamics, fluid dynamics, civil engineering, engineering materials.
 
 ## Work experience
 
