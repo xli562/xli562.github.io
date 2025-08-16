@@ -27,7 +27,7 @@ main:
     url: /cv/
 
   - title: "Random"
-    utl: /random/
+    url: /random/
     
   # - title: "Guide"
   #   url: /markdown/
