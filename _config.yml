@@ -28,7 +28,7 @@ author:
   bio              : "Final-year MEng student, EIE/ECE"
   location         : "Cambridge, UK"
   employer         : "University of Cambridge"
-  uri              : "https://xli562.github.io"
+  uri              : # "https://xli562.github.io"
   email            : "xl562@cam.ac.uk" 
 
   # Academic websites
