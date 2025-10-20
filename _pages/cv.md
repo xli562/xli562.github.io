@@ -20,9 +20,13 @@ redirect_from:
 
 ## Work experience
 
+* Summer 2025: Research intern @ Computer Systems Lab, Cornell University
+  * Performance estimation and feedback for high-level synthesis (HLS)
+  * Supervisors: [Niansong Zhang](https://www.zzzdavid.tech/), [Prof. Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/)
+
 * Summer 2024: Research intern @ Computer Laboratory, University of Cambridge
-  * Hardware acceleration and quantization of [3D Gaussian Splatting]((https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/))
-  * Supervisors: [Yiren Zhao](https://aaron-zhao123.github.io/), [Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/)
+  * Hardware acceleration and quantization of [3D Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+  * Supervisors: [Dr. Yiren Zhao](https://aaron-zhao123.github.io/), [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/)
 
 * Summer 2023: Electronics / software intern @ [Activotec Ltd.](https://activotec.com/)
   * Embedded Python development on Raspberry Pi
@@ -35,7 +39,7 @@ redirect_from:
   * 1000+ lines: C++, C (Arduino, numerical integration etc.)
   * Others: bash, assembly, HTML, CSS, Markdown, LaTeX, Visual Basic, Pascal
 * Operating systems
-  * Windows, Linux (Ubuntu), MacOS
+  * Windows, Linux (Ubuntu & Red Hat Enterprise), MacOS
 * Hardware
   * Raspberry Pi, Arduino, Nvidia Jetson
 * Software
@@ -46,11 +50,12 @@ redirect_from:
   * Solidworks
   * Visual Studio
   * MATLAB
-* Paper-reading (I am building up on this skill...)
+* Reading academic papers and Wikipedia.
 
 ## Referees
 
 * [Jossy Sayir](https://www.eng.cam.ac.uk/profiles/js851): my director of studies (DoS) at Cambridge
+* [Matthew Tang](https://www.eng.cam.ac.uk/profiles/wct26): my Master's project supervisor
 * [Yiren Zhao](https://aaron-zhao123.github.io/): my co-supervisor for the Gaussian spatting project
 * [Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/): my co-supervisor for the Gaussian spatting project
 
